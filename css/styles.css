@@ -686,6 +686,7 @@ section {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    gap: 7rem;
 }
 
 /* Remove underline and blue color from email and Instagram links */
